@@ -1,7 +1,7 @@
 # ToDoApp
 A ToDoApp with QT Framework
 
-#How To Use
+# How To Use
 Open ToDoApp.exe to run the app
 The TodoApp window will open, displaying an input box and an "Add" button.
 Type your task in the input box and click the "Add" button. The task will be added to the list below.
